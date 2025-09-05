@@ -4,13 +4,13 @@ classes: 1
 colour: 51
 id: 6
 label: VEHI
-longName: vehicles
-name: Vehicles
+longName: carnage
+name: Carnage
 penaltyLength: 128
 penaltyLowerBound: 15
 price: 8224
 sprite:
-  filename: cargoes/vehicles.png
+  filename: cargoes/carnage.png
   left: 0
   top: 0
 unitName: Passengers
